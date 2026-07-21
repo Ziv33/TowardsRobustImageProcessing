@@ -285,6 +285,6 @@ Of the two mitigation strategies tested, pre-processing restoration recovered me
 
 # Presentation
 
-A walkthrough of the project in PPT format is available here: [TowardsRobustImageProcessingPresentation.pptx](TowardsRobustImageProcessingPresentation.pptx).
+A walkthrough of the project in PPT format is available here: [TowardsRobustImageProcessing.pptx](TowardsRobustImageProcessing.pptx).
 
 
